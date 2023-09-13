@@ -103,12 +103,16 @@ Thank you for your time and interest, happy coding
 
 Sources:
 Benefits of Dependency Injection:
-[Piotr Bach's Blog](https://piotrbach.com/top-benefits-of-dependency-injection/)
+[Piotr Bach's Blog](https://piotrbach.com/top-benefits-of-dependency-injection/)  
+
 Disadvantages of Dependency Injection (from Stack Exchange):
-[Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/371722/criticism-and-disadvantages-of-dependency-injection)
+[Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/371722/criticism-and-disadvantages-of-dependency-injection)  
+
 Downsides of Dependency Injection (from Stack Overflow):
-[Stack Overflow Discussion](https://stackoverflow.com/questions/2407540/what-are-the-downsides-to-using-dependency-injection)
+[Stack Overflow Discussion](https://stackoverflow.com/questions/2407540/what-are-the-downsides-to-using-dependency-injection)  
+
 What People Don't Know About Dependency Injection:
-[Medium Article by Analytics Vidhya](https://medium.com/analytics-vidhya/what-people-dont-know-about-dependency-injection-835a59fa5eea)
+[Medium Article by Analytics Vidhya](https://medium.com/analytics-vidhya/what-people-dont-know-about-dependency-injection-835a59fa5eea)  
+
 Community Discussion About Dependency Injection:
 [GitHub Discussion](https://gist.github.com/r00k/3105024)

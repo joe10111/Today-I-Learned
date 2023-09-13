@@ -100,3 +100,15 @@ While Dependency Injection offers a streamlined way to boost flexibility and mak
 As a design pattern, Dependency Injection offers a solid solution to a common challenge in coding: managing external objects/components. But, as always, context is key. It's vital to know when and how to use it effectively. As I continue exploring the vast landscape of programming, understanding tools like Dependency Injection will help me craft better, more adaptable code.  
   
 Thank you for your time and interest, happy coding
+
+Sources:
+Benefits of Dependency Injection:
+[Piotr Bach's Blog](https://piotrbach.com/top-benefits-of-dependency-injection/)
+Disadvantages of Dependency Injection (from Stack Exchange):
+[Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/371722/criticism-and-disadvantages-of-dependency-injection)
+Downsides of Dependency Injection (from Stack Overflow):
+[Stack Overflow Discussion](https://stackoverflow.com/questions/2407540/what-are-the-downsides-to-using-dependency-injection)
+What People Don't Know About Dependency Injection:
+[Medium Article by Analytics Vidhya](https://medium.com/analytics-vidhya/what-people-dont-know-about-dependency-injection-835a59fa5eea)
+Community Discussion About Dependency Injection:
+[GitHub Discussion](https://gist.github.com/r00k/3105024)

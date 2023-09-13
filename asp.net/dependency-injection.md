@@ -1,4 +1,4 @@
-# What I learned about Dependency Injection in an ASP.NET Core App
+# What I learned about Dependency Injection in C# and ASP .NET core
 Today I learned about Dependency Injections and how they work in C#. Has someone who has been studying computer sciences / programing since 2018 I've always heard of Dependency injection but never really knew what that meant. So I wanted to dive right into it!
 ## What is dependency injection?
 Dependency Injection is a programming pattern that helps a program get its parts from outside the current scope, rather than letting it create or find them itself. This makes the program have decency's on certain outside classes or methods.
